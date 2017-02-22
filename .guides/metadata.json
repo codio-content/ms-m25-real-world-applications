@@ -1,0 +1,29 @@
+{
+ "sections": [
+  {
+   "id": "9fd7d4e2-3fa5-3db6-8f5e-fd8a41edaf0e",
+   "title": "Real-World Applications",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Real-World-Applications-9fd7.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "95abf986-1638-ff1d-50c7-2cd3b44ced2e",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-95ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
